@@ -1,0 +1,10 @@
+{
+	"shell-version": ["3.36"],
+	"uuid": "testext@github.junaru.com",
+	"name": "Test extension",
+	"description": "Gnome shell test extension",
+	"settings-schema": "org.gnome.shell.extensions.testext",
+	"gettext-domain": "testext@github.junaru.com",
+	"url": "http://example.com",
+	"version": 1
+}
